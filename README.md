@@ -70,9 +70,7 @@ This repository tracks notable **SaaS/Commercial platforms** and **open-source p
 
 ## 📊 Sector Overview & Market Dynamics
 
-
-
-The global Developer Productivity, Code Review & Version Control Tooling market is valued at approximately **$14.5B–$18.2B+ in 2026**, expanding at a ~18%–23% CAGR propelled by AI coding-agent patch auditing, monorepo code review velocity, and AST-aware static analysis. While commercial desktop Git and diff/merge tools (**Beyond Compare, Sublime Merge, Kaleidoscope, Tower, Fork**) maintain loyal followings among enterprise teams, the **terminal diff pager, structural AST diff, and hunk-staging ecosystems are overwhelmingly led by open-source tools** (`delta`, `Difftastic`, `Lazygit`, `Meld`, `KDiff3`, `GitButler`).
+The global Developer Productivity, Code Review & Version Control Tooling market is valued at approximately **$14.5B–$18.2B+ in 2026**, expanding at a ~18%–23% CAGR propelled by AI coding-agent patch auditing, monorepo code review velocity, and AST-aware static analysis. The sector exhibits a **moderately fragmented market structure**: foundational repository hosting and baseline Git GUIs remain highly concentrated around hyperscale winners (Microsoft/GitHub and Atlassian), whereas specialized visual diffing, structural AST diff engines, hunk-level staging clients, and 3-way merge utilities sustain an active, fragmented ecosystem split between entrenched bootstrapped commercial utilities (Beyond Compare, Sublime Merge, Tower, Fork) and dominant community open-source tools (`delta`, `Difftastic`, `Lazygit`, `Meld`).
 
 
 
